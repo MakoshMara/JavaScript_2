@@ -6,7 +6,6 @@ Vue.component('searchform', {
                 <button type="submit" class="btn-search">
                     <i class="fas fa-search"></i>
                 </button>
-                <h1>value</h1>
             </form>
     `
 });
